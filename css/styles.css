@@ -1,13 +1,101 @@
 body {
   background-color: lightcyan;
 }
-hr{
+
+hr {
   border-style: none;
   border-top-style: dotted;
   border-color: grey;
-  border-width: 5px;
+  border-width: 8px;
   width: 2%;
 }
-table{
+
+table {
   border-spacing: 20px;
+  margin-left: 30px;
+}
+
+.navi{
+  list-style-type: none;
+  text-align: right;
+  padding: 0;
+  margin: 0;
+}
+
+.navi li{
+  display: inline-block;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.Welcome{
+  background-color: #d1d9d9;
+  text-align: center;
+  padding: 20px;
+  font-size: 50px;
+}
+
+.Section1_Bio{
+  background-color: #aad8d3;
+  text-align: center;
+  padding: 20px;
+}
+
+.name_bio{
+  text-align: left;
+  display: inline-block;
+  width: 1200px;
+  line-height: 1.5;
+}
+
+.name_bio img{
+  position: relative;
+  bottom: 110px;
+  margin-right: 50px;
+}
+
+.Section2_Work_Experience{
+  background-color: #d1d9d9;
+  padding: 20px;
+}
+
+.work-experience{
+  margin-left: 100px;
+}
+
+.Section3_Education{
+  background-color: #aad8d3;
+  padding: 20px;
+}
+
+.education{
+  margin-left: 100px;
+}
+
+.Section4_Skills{
+  background-color: #d1d9d9;
+  padding: 20px;
+}
+
+.skills{
+  border-spacing:1px;
+  margin-left:100px;
+}
+
+.Section5_Patents_Publications{
+  background-color: #aad8d3;
+  padding: 20px;
+}
+
+.patents{
+  margin-left: 100px;
+}
+
+.Section6_Hobbies{
+  background-color: #d1d9d9;
+  padding: 20px;
+}
+
+.Hobbies{
+  margin-left: 100px;
 }
