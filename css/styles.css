@@ -60,7 +60,7 @@ table {
 }
 
 .work-experience{
-  margin-left: 100px;
+  margin-left: 0px;
 }
 
 .Section3_Education{
@@ -69,7 +69,7 @@ table {
 }
 
 .education{
-  margin-left: 100px;
+  margin-left: 0px;
 }
 
 .Section4_Skills{
@@ -79,7 +79,7 @@ table {
 
 .skills{
   border-spacing:1px;
-  margin-left:100px;
+  margin-left:0px;
 }
 
 .Section5_Patents_Publications{
@@ -88,14 +88,19 @@ table {
 }
 
 .patents{
-  margin-left: 100px;
+  margin-left: 0px;
 }
 
-.Section6_Hobbies{
+.Section6_Projects{
   background-color: #d1d9d9;
   padding: 20px;
 }
 
+.Section7_Hobbies{
+  background-color: #aad8d3;
+  padding: 20px;
+}
+
 .Hobbies{
-  margin-left: 100px;
+  margin-left: 0px;
 }
