@@ -12,7 +12,7 @@ hr {
 
 table {
   border-spacing: 20px;
-  margin-left: 30px;
+  margin-left: 10px;
 }
 
 .navi{
@@ -51,7 +51,7 @@ table {
 .name_bio img{
   position: relative;
   bottom: 110px;
-  margin-right: 50px;
+  margin-right: 20px;
 }
 
 .Section2_Work_Experience{
