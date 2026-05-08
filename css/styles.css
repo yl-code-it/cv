@@ -105,11 +105,3 @@ table {
   margin-left: 0px;
 }
 
-.slideshow { overflow: hidden; max-width: 1000px; margin: auto; }
-slide-wrapper { width: 300%; animation: slide 9s infinite; display: flex; }
-slide img { width: 100%; }
-@keyframes slide {
- 0%,33% { transform: translateX(0); }
- 34%,66% { transform: translateX(-100%); }
- 67%,100% { transform: translateX(-200%); }
-}
