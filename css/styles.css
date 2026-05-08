@@ -105,7 +105,7 @@ table {
   margin-left: 0px;
 }
 
-#slideshow { overflow: hidden; max-width: 1000px; margin: auto; }
+.slideshow { overflow: hidden; max-width: 1000px; margin: auto; }
 slide-wrapper { width: 300%; animation: slide 9s infinite; display: flex; }
 slide img { width: 100%; }
 @keyframes slide {
