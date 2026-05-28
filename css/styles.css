@@ -96,6 +96,11 @@ table {
   padding: 20px;
 }
 
+.projects{
+  border-spacing:1px;
+  margin-left:0px;
+}
+
 .Section7_Hobbies{
   background-color: #aad8d3;
   padding: 20px;
